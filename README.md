@@ -1,3 +1,3 @@
 # angular-realworld-app
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-realworld-myfaas)
+This project is based off of the [Real World Project](https://github.com/gothinkster/angular-realworld-example-app) made by GoThinkster. You can [edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-realworld-myfaas) and full API connectivity from there. 
